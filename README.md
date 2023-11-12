@@ -1,6 +1,6 @@
 # Gradient Methods for a binary classification problem in a Semi-supervised Learning scenario
 
-(Project made together with @DanieleBarolo and Cesare Bidini from the Optimization for Data Science course at UniPd, held by proessor Francesco Rinaldi)
+(Project made together with [@DanieleBarolo] (https://www.github.com/DanieleBarolo) and Cesare Bidini from the Optimization for Data Science course at UniPd, held by proessor Francesco Rinaldi)
 
 The aim of this project was to address the binary classification problem in a semi-supervised learning scenario, by implementing different gradient descent methods. \
 Specifically, a limited number of labeled samples and a larger number of unlabeled points have been utilized to develop an accurate model for classifying the correct points
